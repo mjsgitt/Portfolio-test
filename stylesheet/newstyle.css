@@ -1,0 +1,86 @@
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.nav {
+  padding-top: 10px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  background-color: #FBF9F1;
+  margin: auto;
+  width: 60%;
+}
+
+h1 {
+  font-size: 4px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h2 {
+  font-size: 5 px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+p {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.Error p {
+  padding: 0;
+  color: red;
+}
+
+.Approved p {
+  padding: 0;
+  color: green;
+}
+
+.row {
+  padding: 20px 0;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  width: 200px;
+  padding: 25px 0;
+}
+footer {
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+footer input {
+  text-align: center;
+  margin: 10px;
+}
+
+.profile:hover {
+  width: 300px;
+  height: auto;
+  transition: 0.3s ease-in-out;
+}
+
+.Approved {
+  padding: 0;
+  color: pink;
+}/*# sourceMappingURL=newstyle.css.map */

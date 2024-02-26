@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center{
+    background-color:#FBF9F1;
+    margin: auto;
+    width: 60%;
+}
+li{
+    display: inline;
+    margin: 85px;
+}
+ul{
+    margin: 0px 30px;
+    padding: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color:#606C5D;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+h1{
+    font-size: 13px;
+    text-align: center;
+    padding: 20px 0;
+}
+h2{
+    font-size: 1 px;
+}
+p{
+    text-align: center;
+    padding: 20px 0;
+}
+.Error, p{
+    padding: 0;
+    color: red;
+}
+.Approved, p{
+    padding: 0;
+    color:green;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    width: 150px;
+    padding: 10px 0;
+}
+footer{
+    margin: auto;
+    width: 60%;
+}
+footer, input{
+    text-align: center;
+}
+input{
+    margin: 10px;
+}
+.profile:hover{
+    width: 200px;
+	height: auto;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
